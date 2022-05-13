@@ -16,7 +16,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-<h3 align="center">Bro Done Something Think Something </h3>
+<h3 align="center">Do Something Think Something </h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cyber-Nomant&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Cyber-Noman" /> </p>
 </i></b></h3>
